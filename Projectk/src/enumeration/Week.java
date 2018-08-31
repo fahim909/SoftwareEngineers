@@ -13,28 +13,28 @@ public class Week {
     public void whatToDo(Day day) {
         switch(day) {
             case MONDAY:
-                System.out.println("Start working on CodeLab");
+                System.out.println("Study all day");
                 break;
             case TUESDAY:
-                System.out.println("Start working on Homerwork");
+                System.out.println("Go to work");
                 break;
             case WEDNESDAY:
-                System.out.println("Join Mentoring Session");
+                System.out.println("Study with the group");
                 break;
             case THURSDAY:
-                System.out.println("Joing Group Discussion");
+                System.out.println("Work on homework");
                 break;
             case FRIDAY:
-                System.out.println("Submit Homework");
+                System.out.println("Continue working on hw with group");
                 break;
             case SATURDAY:
-                System.out.println("Join Weekend Class-1");
+                System.out.println("Go to class");
                 break;
             case SUNDAY:
-                System.out.println("Join Weekened Class-2");
+                System.out.println("Go to class again");
                 break;
             default:
-                System.out.println("are you kidding no more days");
+                System.out.println("Keep studying to become a tester");
         }
 
     }
