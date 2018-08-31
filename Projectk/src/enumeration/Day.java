@@ -8,7 +8,7 @@ public enum Day {
     FRIDAY,
     SATURDAY,
     SUNDAY,
-    Noday;
+    Noday
 
     private Day() {
     }
