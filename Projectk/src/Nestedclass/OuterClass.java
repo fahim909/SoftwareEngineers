@@ -34,7 +34,7 @@ public class OuterClass {
         }
 
         public void innerBMethodB() {
-            System.out.println("Innerb MethodB")
+            System.out.println("Innerb MethodB");
 
 
         }
