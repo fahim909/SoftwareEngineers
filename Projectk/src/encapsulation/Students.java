@@ -23,7 +23,7 @@ public String getStName() {
 		return grade;
 	}
 	public void setGrade(String grade) {
-		this.grade = grade;;
+		this.grade = grade;
 	}
 private String stName;
 private int stID;
