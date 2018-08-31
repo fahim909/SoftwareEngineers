@@ -4,10 +4,10 @@ public class TestStudents {
 
 	public static void main(String[] args) {
 Students st1 = new Students();
-st1.setStName("Ruby Sager");
+st1.setStName("Stephen Hawking");
 st1.setStID(100);
-st1.setDob("08-11-1980");
-st1.setGrade("B+");	
+st1.setDob("01-08-1942");
+st1.setGrade("A+");	
 	
 System.out.println(st1.getStName()+"" + st1.getStID()+ ""+ st1.getDob()+ ""+ st1.getGrade());
 	
