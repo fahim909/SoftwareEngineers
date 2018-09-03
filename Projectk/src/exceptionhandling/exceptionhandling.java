@@ -7,9 +7,9 @@ public class ExceptionHandling {
             int result = num / 0;
             System.out.println(result);
         }catch(Exception ex){
-            System.out.println("You can not divide a number by zero, go learn math first");
+            System.out.println("I need to learn to code");
         }
-        System.out.println("I was able to come to this point");
+        System.out.println("I learned to this point");
     }
 
 }
