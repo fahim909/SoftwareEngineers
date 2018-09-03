@@ -2,7 +2,7 @@ package nestedclass;
 
 public class OuterClass {
     //outer class open body
-    InnerClassA innerA = new InnerClassA();
+    InnerClassA innerA = new InnerClassA()
 
     public void outerMethodA(){
         System.out.println("OuterClassA MethodA");
