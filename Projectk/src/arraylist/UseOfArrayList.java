@@ -8,7 +8,7 @@ public class UseOfArrayList {
         List<Integer> list = new ArrayList<Integer>();
         list.add(10);
         list.add(15);
-        list.add(25);
+        list.add(25)
 
         for(Integer number:list) {
             System.out.println(number);
