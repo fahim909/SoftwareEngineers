@@ -28,7 +28,7 @@ public class OuterClass {
             System.out.println("InnerB MethodA");
         }
         private static void innerBMethodB(){
-            System.out.println("InnerB MethodB");
+            System.out.println("InnerB MethodB")
         }
     }
 }//outer class close body
